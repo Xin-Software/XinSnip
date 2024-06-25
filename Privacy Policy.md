@@ -9,7 +9,7 @@ This privacy policy outlines how Xin Snip collects, uses, and protects any infor
 - We do not use cookies or tracking mechanisms.
 
 ## Data Storage:
-- Xin Snip stores user-generated data in the form of "list items" on the application.
+- Xin Snip stores user-generated data in the form of "snips" on the application.
 - This data is stored locally on the user’s device and is not transmitted to external servers.
 - We do not collect any personal information beyond the tasks themselves.
 
